@@ -8,6 +8,17 @@ import { SiNextdotjs } from "react-icons/si";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
+import SingleSkill from "./SingleSkill";
+import { FaHtml5 } from "react-icons/fa";
+import { FaCss3Alt } from "react-icons/fa";
+import { IoLogoJavascript } from "react-icons/io";
+import { FaReact } from "react-icons/fa";
+import { SiNextdotjs } from "react-icons/si";
+import { RiTailwindCssFill } from "react-icons/ri";
+import { motion } from "framer-motion";
+import { fadeIn } from "../../framerMotion/variants";
+import { RiJavaFill } from "react-icons/ri";
+import { PiFileSqlDuotone } from "react-icons/pi";
 
 const skills = [
   {
